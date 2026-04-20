@@ -67,7 +67,7 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/yourusername/gemutly-app.git
+git clone https://github.com/rkazumovi/gemutly-app.git
 cd gemutly-app
 
 Install dependencies:
